@@ -3,7 +3,7 @@ package main
 import (
 	"time"
 
-	"github.com/themeyic/timing"
+	"github.com/kingAndGithub/timing"
 )
 
 func main() {
