@@ -1,4 +1,15 @@
 # timing  
-这个是方便go-dlt645使用的timing版本自用的
-目前引用的是https://github.com/thinkgos的time
-后续针对自己的项目做大改，由于版本原因我直接拷过来用了
+
+…or create a new repository on the command line
+echo "# timing" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/kingAndGithub/timing.git
+git push -u origin main
+
+…or push an existing repository from the command line
+git remote add origin https://github.com/kingAndGithub/timing.git
+git branch -M main
+git push -u origin main
